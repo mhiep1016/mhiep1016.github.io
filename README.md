@@ -1,2 +1,2 @@
 # mhiep.github.io
-my persional website
+Học GitHub rất vui
